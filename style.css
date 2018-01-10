@@ -1,0 +1,16 @@
+body {
+	background-color: DeepSkyBlue !important;
+	font-family: Tahoma !important;
+	color: Azure !important;
+	text-align: center;
+	padding-top: 20px;
+}
+
+#weather-info {
+	font-size: 20px;
+}
+
+#temp-unit-btn {
+	visibility: hidden;
+	color: Azure !important;
+}
